@@ -132,3 +132,5 @@ page-mathjax: false
 #         href: "http://ingf.github.io/"
 #     }
 # ]
+
+theme: jekyll-theme-slate
